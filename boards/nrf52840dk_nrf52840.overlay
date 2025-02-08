@@ -1,0 +1,5 @@
+/ {
+    chosen {
+        zephyr,osdp-uart = &uart0;
+    };
+};
